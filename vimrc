@@ -7,3 +7,6 @@ set shiftwidth=2
 set expandtab
 
 syntax on
+
+" Always display file details
+set ls=2
