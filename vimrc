@@ -10,3 +10,7 @@ syntax on
 
 " Always display file details
 set ls=2
+
+" Setting color scheme
+set t_Co=256
+colors zenburn
