@@ -6,3 +6,7 @@ Create symlinks:
 
     ln -s ~/dotfiles/vimrc ~/.vimrc
     ln -s ~/dotfiles/vim ~/.vim
+
+Init submodules:
+
+    git submodule update --init
