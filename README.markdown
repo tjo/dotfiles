@@ -9,4 +9,5 @@ Create symlinks:
 
 Init submodules:
 
+    cd ~/dotfiles
     git submodule update --init
