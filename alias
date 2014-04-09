@@ -1,0 +1,6 @@
+alias ls="ls --color"
+alias ll='ls -la'
+alias grep='grep --color'
+alias ack='ack-5.12'
+alias urlencode_js='node -e "console.log(encodeURIComponent(process.argv[1]))"'
+alias urldecode_js='node -e "console.log(decodeURIComponent(process.argv[1]))"'
